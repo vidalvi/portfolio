@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5ccd50d7.chunk.css",
+    "main.js": "/portfolio/static/js/main.06f30805.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.06f30805.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e83a09ff.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e83a09ff.js.map",
+    "static/css/2.31461e4f.chunk.css": "/portfolio/static/css/2.31461e4f.chunk.css",
+    "static/js/2.07545d15.chunk.js": "/portfolio/static/js/2.07545d15.chunk.js",
+    "static/js/2.07545d15.chunk.js.map": "/portfolio/static/js/2.07545d15.chunk.js.map",
+    "static/js/3.fef3c260.chunk.js": "/portfolio/static/js/3.fef3c260.chunk.js",
+    "static/js/3.fef3c260.chunk.js.map": "/portfolio/static/js/3.fef3c260.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/portfolio/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.5ccd50d7.chunk.css.map": "/portfolio/static/css/main.5ccd50d7.chunk.css.map",
+    "static/js/2.07545d15.chunk.js.LICENSE.txt": "/portfolio/static/js/2.07545d15.chunk.js.LICENSE.txt",
+    "static/media/about-me-pic.1138e6de.jpg": "/portfolio/static/media/about-me-pic.1138e6de.jpg",
+    "static/media/css3-logo.d237bf29.svg": "/portfolio/static/media/css3-logo.d237bf29.svg",
+    "static/media/facebook-logo.bdb2fc10.svg": "/portfolio/static/media/facebook-logo.bdb2fc10.svg",
+    "static/media/git-logo.9c77631f.svg": "/portfolio/static/media/git-logo.9c77631f.svg",
+    "static/media/github-logo.146e30eb.svg": "/portfolio/static/media/github-logo.146e30eb.svg",
+    "static/media/gmail-logo.55ea6836.svg": "/portfolio/static/media/gmail-logo.55ea6836.svg",
+    "static/media/html5-logo.169ecb56.svg": "/portfolio/static/media/html5-logo.169ecb56.svg",
+    "static/media/js-logo.b41852a0.svg": "/portfolio/static/media/js-logo.b41852a0.svg",
+    "static/media/password-checker.b46a9d53.JPG": "/portfolio/static/media/password-checker.b46a9d53.JPG",
+    "static/media/python-logo.5168c8d4.svg": "/portfolio/static/media/python-logo.5168c8d4.svg",
+    "static/media/react-logo.05c79bfe.svg": "/portfolio/static/media/react-logo.05c79bfe.svg",
+    "static/media/shoot-em-aliens.18ab110c.JPG": "/portfolio/static/media/shoot-em-aliens.18ab110c.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e83a09ff.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.07545d15.chunk.js",
+    "static/css/main.5ccd50d7.chunk.css",
+    "static/js/main.06f30805.chunk.js"
+  ]
+}
