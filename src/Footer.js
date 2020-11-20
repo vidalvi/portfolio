@@ -14,7 +14,7 @@ function Footer() {
     });
 
     return (
-        <div className='ba bw2 br3 ph4 ma3 mh6-l mh4-m mv4-l'>
+        <div className='ba bw2 br3 ph4 ma3 mh6-l mh4-m mv4-l' id='footer'>
             <div className='flex flex justify-center'>
                 {contacts}
             </div>
